@@ -64,7 +64,7 @@ function Project () {
                         <div className="project__meta absolute">
                             <h4 className="project__text">Personal Portfolio</h4>
                             <p  className="project__text">Tech : React ,Html, JavaScript , css, Bootstrap</p>
-                            <a href="Project" className="project__btn">View Details</a>
+                            <a href="https://akshayudupa7.github.io/Web-Portfolio/" className="project__btn">View Details</a>
                         </div>
                     </div>
                    </div>

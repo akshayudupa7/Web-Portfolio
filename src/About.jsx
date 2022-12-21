@@ -16,7 +16,7 @@ function About ()  {
                         <div className="col__2">
                            <h2 className="intro_head">Experince</h2>
                            <p className="about__text p__color">
-                9 Month Experince as a FrontEnd Developer in Thomson Reuters
+                8 Month Experince as a FrontEnd Developer in Thomson Reuters
               </p>
                         </div>
                         <div className="col__2">
@@ -34,7 +34,7 @@ function About ()  {
                            </p>
           
                  <div className="about__button d__flex align__items__center">
-                    <a href="/#">
+                    <a href="https://app.luminpdf.com/viewer/63a3448732eb3c59231c1715">
                         <button className="about btn pointer">Look at CV</button>
                     </a>
                    
