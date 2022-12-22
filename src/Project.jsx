@@ -30,9 +30,9 @@ function Project () {
                             </div>
                         </div>
                         <div className="project__meta absolute">
-                            <h4 className="project__text">Google Search</h4>
+                            <h4 className="project__text">Yahoo Clone</h4>
                              <p  className="project__text">Tech : React,Tailwind ,Html, Css,JavaScript</p>
-                            <a href="https://akshayudupa7.github.io/React-google-clone/" className="project__btn">View Details</a>
+                            <a href="https://akshayudupa7.github.io/React-yahoo-clone/" className="project__btn">View Details</a>
                         </div>
                     </div>
                    </div>
