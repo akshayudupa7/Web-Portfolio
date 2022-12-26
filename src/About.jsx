@@ -12,7 +12,7 @@ function About ()  {
                <h1 className="about__heading">About Me</h1>
                 <div className="container">
                   <h2 className="intro">Hi I am Akshay Udupa  a highly motivated, passionate hard-core web developer.<br/> I have a high intrest  in building a FrontEnd application using react</h2>
-                    <div className="row">
+                    <div className="row zz">
                         <div className="col__2">
                            <h2 className="intro_head">Experince</h2>
                            <p className="about__text p__color">

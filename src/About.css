@@ -68,3 +68,9 @@ a.bottom__to__top.active {
     margin-bottom: 1em;
     font-size: 1.5em;
 }
+@media(max-width:770px){
+    .zz{
+    display:flex;
+    justify-content: flex-start !important;
+    }
+}
