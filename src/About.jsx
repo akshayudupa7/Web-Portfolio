@@ -34,7 +34,7 @@ function About ()  {
                            </p>
           
                  <div className="about__button d__flex align__items__center">
-                    <a href="https://app.luminpdf.com/viewer/63a3fcb932eb3c59233a21f9">
+                    <a href="https://app.luminpdf.com/viewer/63a94e557bc2c2631ba80e50">
                         <button className="about btn pointer">Look at CV</button>
                     </a>
                    
