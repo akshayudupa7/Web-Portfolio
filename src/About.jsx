@@ -16,7 +16,7 @@ function About ()  {
                         <div className="col__2">
                            <h2 className="intro_head">Experince</h2>
                            <p className="about__text p__color">
-                8 Month Experince as a FrontEnd Developer in Thomson Reuters
+                6 Month Experince as a FrontEnd Developer in T Edge solutions
               </p>
                         </div>
                         <div className="col__2">
